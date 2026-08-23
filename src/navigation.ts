@@ -72,7 +72,6 @@ export const headerData = {
   actions: [{ text: 'Download', href: 'https://github.com', target: '_blank' }],
 };
 
-
 export const footerData = {
   links: [
     {
