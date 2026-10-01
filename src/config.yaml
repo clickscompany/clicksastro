@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: Clicks Inc.
   site: 'https://clickscompany.com'
   base: '/'
   trailingSlash: false
@@ -9,8 +9,8 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
+    default: Clicks Inc.
+    template: '%s — Clicks Inc.'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
